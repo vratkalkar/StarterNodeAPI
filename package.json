@@ -1,0 +1,20 @@
+{
+  "name": "node-js-rest-api",
+  "version": "1.0.0",
+  "description": "A stormpath tutorial to create a basic node.js api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api",
+    "json"
+  ],
+  "author": "Vivek Ratkalkar <vivek@appycouple.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
