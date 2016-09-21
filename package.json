@@ -15,6 +15,7 @@
   "author": "Vivek Ratkalkar <vivek@appycouple.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "express-stormpath": "^3.1.5"
   }
 }
